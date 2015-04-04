@@ -14,8 +14,15 @@
             "role": "Developer"
         }
     ],
+    "repositories":
+    [
+        {
+            "type": "vcs",
+            "url": "https://github.com/adldap/adLDAP"
+        }
+    ],
     "require": {
-        "adldap/adldap": "v4.0.2-stable"
+        "adldap/adldap": "dev-master"
     },
     "autoload": {
         "psr-4" : {
