@@ -17,9 +17,7 @@
     "repositories":
     [
         {
-            "packagist": false
-        },
-        {
+            "packagist": false,
             "type": "vcs",
             "url": "https://github.com/adldap/adLDAP.git"
         }
