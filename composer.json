@@ -17,12 +17,15 @@
     "repositories":
     [
         {
+            "packagist": false
+        },
+        {
             "type": "vcs",
             "url": "https://github.com/adldap/adLDAP.git"
         }
     ],
     "require": {
-        "adldap/adldap": "dev-master"
+        "adldap/adldap": "*"
     },
     "autoload": {
         "psr-4" : {
