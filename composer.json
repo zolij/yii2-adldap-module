@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "adldap/adldap": "*"
+        "adldap/adldap": "dev-master"
     },
     "autoload": {
         "psr-4" : {
