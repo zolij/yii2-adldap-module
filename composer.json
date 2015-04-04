@@ -14,15 +14,8 @@
             "role": "Developer"
         }
     ],
-    "repositories":
-    [
-        {
-            "type": "vcs",
-            "url": "https://github.com/zolij/adLDAP"
-        }
-    ],
     "require": {
-        "adldap/adldap": "dev-php54"
+        "adldap/adldap": "dev-master"
     },
     "autoload": {
         "psr-4" : {
