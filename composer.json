@@ -17,7 +17,6 @@
     "repositories":
     [
         {
-            "packagist": false,
             "type": "vcs",
             "url": "https://github.com/zolij/adLDAP"
         }
