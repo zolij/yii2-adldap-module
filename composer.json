@@ -19,11 +19,11 @@
         {
             "packagist": false,
             "type": "vcs",
-            "url": "https://github.com/adldap/adLDAP.git"
+            "url": "https://github.com/zolij/adLDAP.git"
         }
     ],
     "require": {
-        "adldap/adldap": "dev-master"
+        "adldap/adldap": "dev-php54"
     },
     "autoload": {
         "psr-4" : {
