@@ -14,15 +14,9 @@
             "role": "Developer"
         }
     ],
-    "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/CoditoNet/adLDAP"
-    }
-    ],
     "require": {
         "php": ">=5.3.2",
-        "adldap/adLDAP": "4.0.4"
+        "stevebauman/adldap-fork": "4.0.5",
     },
     "autoload": {
         "psr-4" : {
